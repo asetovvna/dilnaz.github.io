@@ -1,0 +1,40 @@
+            body{font-family: Josefin Sans;
+                font-weight:bold;} 
+            .container{background-color: aqua; margin: 0 auto; width: 1070px;}
+
+            .in-block{display: inline-block;}
+            
+            .menu{height:50px;}
+            .img {width: 13%;}
+            
+            .left-menu {width: 74%; }
+            .left-menu div{display: inline-block;}
+            .right-menu i{margin:0px 5px;font-size: 13px;}
+                        .left-menu div{padding-top:23px; margin:0px 9px;}
+
+            .text{text-align: center;}
+                    .text h3{padding-top:12px;font-weight:200; }
+                    .text h1{padding-bottom: 4px;}
+
+                    .models img{width: 531px;height: 470px;}
+            
+            .zaqolovok h1{text-align: center;}
+            .deals div{display: inline-block;}
+            .things img{height: 65px;width: 130px;}
+            .things img{height: 85px;width: 130px;vertical-align: text-top;padding-left: 117px;}
+
+            .knopka{
+                border: solid 1px #080808;
+                border-radius: 1px;
+                font-size: 17px;
+                font-weight: 300;
+                padding: 10px 50px;
+                text-align: center;
+                width: 62px;
+                margin-top: 24px;
+                color: #eee;
+                background: black;
+                /* vertical-align: initial; */
+                }
+
+            .block-2 a{text-decoration:none;}
